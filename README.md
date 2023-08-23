@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Linux / HTB**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/trevin-tindall-483883213/](https://www.linkedin.com/in/trevin-tindall-483883213/)
-
 - ⚡ Fun fact **I like to game**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,6 +18,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/tcrypt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tcrypt" /></a></p><br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-crypt&show_icons=true&locale=en" alt="t-crypt" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-crypt&show_icons=true&locale=en" alt="t-crypt" /></p>
 
