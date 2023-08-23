@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm T-Crypt</h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CE5F7&center=true&vCenter=true&width=550&lines=I+am+a+passionate+Hacker+and+IT+Professional" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CE5F7&center=true&vCenter=true&width=550&lines=I+am+a+passionate+Hacker+and+IT+Professional" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **Offensive Security Certified Professional**
 
