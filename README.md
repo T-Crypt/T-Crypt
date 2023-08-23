@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-crypt&show_icons=true&locale=en" alt="t-crypt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-crypt&" alt="t-crypt" /></p>
+
