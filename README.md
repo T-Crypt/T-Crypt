@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm T-Crypt</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+passionate+Hacker+and+IT+Professional)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+passionate+Hacker+and+IT+Professional)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Offensive Security Certified Professional**
 
