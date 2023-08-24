@@ -138,9 +138,9 @@
 
  
  <div align="center">
-<a href="http://www.github.com/The-Young-Programmer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats" /></a>
-<a href="https://github.com/The-Young-Programmer"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/The-Young-Programmer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/T-Crypt"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=T-Crypt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="T-Crpyts GitHub stats" /></a>
+<a href="https://github.com/T-Crypt"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Crypt&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/T-Crypt"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=T-Crypt&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
 
 <!-- ###### END OF My Github Stats  ##### -->
