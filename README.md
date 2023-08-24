@@ -17,7 +17,7 @@
 
 ## :triangular_flag_on_post: CTF profile:
 
-<div align="center">
+<div align="left">
 <a href="https://app.hackthebox.com/profile/204903"><img src="https://www.hackthebox.com/badge/image/204903" alt="HackTheBox"></a>
 </div>
 
