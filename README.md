@@ -141,7 +141,7 @@
  
  <div align="center">
 <a href="http://www.github.com/T-Crypt"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=T-Crypt&show_icons=true&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="T-Crpyts GitHub stats" /></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="T-Crypt's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=T-Crypt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="T-Crypt's Top Languages" src="https://github-readme-stats-seven-henna.vercel.app/api/top-langs/?username=T-Crypt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="http://www.github.com/T-Crypt"/><img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=T-Crypt&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
 
