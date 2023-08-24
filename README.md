@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Linux / HTB**
 
-- ⚡ Fun fact **I like to game**
+- ⚡ Fun fact **Hack ---> Code ---> Repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
