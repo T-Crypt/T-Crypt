@@ -129,6 +129,8 @@
   </p>
 </details>
 
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
 <!-- ###### My Github Stats  ##### -->
 
 <h4 align="center">
