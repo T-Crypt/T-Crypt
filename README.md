@@ -179,4 +179,4 @@
 <p><a href="https://ko-fi.com/tcrypt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tcrypt" /></a></p><br><br>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=t-crypt&label=Profile%20views&color=0e75b6&style=flat" alt="t-crypt" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=t-crypt&label=Profile%20views&color=0e75b6&style=flat" alt="t-crypt" /> </p>
