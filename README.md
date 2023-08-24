@@ -15,7 +15,7 @@
 <a href="https://app.hackthebox.com/profile/204903" target="blank"><img align="center" src="https://github.com/T-Crypt/hackthebox/blob/main/hack-the-box-svgrepo-com.svg" alt="5H3LLKiller" height="30" width="40" /></a>
 </p>
 
-## :triangular_flag_on_post: CTF profiles:
+## :triangular_flag_on_post: CTF profile:
 
 <div align="center">
 <a href="https://app.hackthebox.com/profile/204903"><img src="https://www.hackthebox.com/badge/image/204903" alt="HackTheBox"></a>
