@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm T-Crypt</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-crypt&label=Profile%20views&color=0e75b6&style=flat" alt="t-crypt" /> </p>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&color=36E6F7&width=550&height=150&lines=$whoami;I+am+a+passionate+Hacker+and+IT+Professional;8%2B+Years+of+Experience;Windows+and+Linux+Admin;Problem+Solver;Continous+Learner" alt="Typing SVG" /></a>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
@@ -179,3 +177,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/tcrypt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tcrypt" /></a></p><br><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-crypt&label=Profile%20views&color=0e75b6&style=flat" alt="t-crypt" /> </p>
