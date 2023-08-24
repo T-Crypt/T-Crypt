@@ -6,6 +6,8 @@
 
 - 💬 Ask me about **Linux / HTB / Windows**
 
+- 🤝 I’m looking for help with **Hyprland Hypdots Themeing**
+
 - ⚡ Fun fact **Hack ---> Scream ---> Repeat**
 
 <h3 align="left">Connect with me:</h3>
