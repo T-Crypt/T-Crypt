@@ -121,6 +121,12 @@
   </p>
 </details>
 
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@tcrypt"><img src="https://holopin.me/tcrypt" alt="@tcrypt&#39;s Holopin board"></a></p>
+</details>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/tcrypt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tcrypt" /></a></p><br><br>
