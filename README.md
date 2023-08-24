@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Linux / HTB / Windows**
 
-- 🤝 I’m looking for help with **Hyprland Hypdots Themeing**
+- 🤝 I’m looking for help with **Hyprland Hypdots Theming**
 
 - ⚡ Fun fact **Hack ---> Scream ---> Repeat**
 
