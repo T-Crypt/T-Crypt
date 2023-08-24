@@ -2,9 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&multiline=true&color=36E6F7&width=550&height=150&lines=$whoami;I+am+a+passionate+Hacker+and+IT+Professional;8%2B+Years+of+Experience;Windows+and+Linux+Admin;Problem+Solver;Continous+Learner" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning **Offensive Security Certified Professional**
+- 🌱 I’m currently studying for **Offensive Security Certified Professional**
 
-- 💬 Ask me about **Linux / HTB**
+- 💬 Ask me about **Linux / HTB / Windows**
 
 - ⚡ Fun fact **Hack ---> Scream ---> Repeat**
 
