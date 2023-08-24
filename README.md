@@ -163,7 +163,7 @@
 
 
 <details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
+  <summary><h2>🏷️ Holopin Badges / HACKTOBERFEST </h2></summary>
 
   <p><a href="https://holopin.io/@tcrypt"><img src="https://holopin.me/tcrypt" alt="@tcrypt&#39;s Holopin board"></a></p>
 </details>
