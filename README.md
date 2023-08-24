@@ -127,6 +127,25 @@
   </p>
 </details>
 
+<!-- ###### My Github Stats  ##### -->
+
+<h4 align="center">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h4>
+  
+  
+ <!--<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>-->
+
+ 
+ <div align="center">
+<a href="http://www.github.com/The-Young-Programmer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=The-Young-Programmer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats" /></a>
+<a href="https://github.com/The-Young-Programmer"><img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-Programmer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/The-Young-Programmer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-Programmer&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+</div>
+
+<!-- ###### END OF My Github Stats  ##### -->
+
+
 <!-- ###### QUOTE OF THE DAY ##### -->
 
 <h4 align="left">
