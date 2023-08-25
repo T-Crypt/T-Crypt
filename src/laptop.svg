@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148.5" height="28" role="img"
+  aria-label="ASUS: LAPTOP">
+  <title>ASUS: LAPTOP</title>
+  <g shape-rendering="crispEdges">
+    <rect width="73" height="28" fill="#555" />
+    <rect x="73" width="75.5" height="28" fill="#000000" />
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+    text-rendering="geometricPrecision" font-size="100">
+    <image x="9" y="7" width="14" height="14"
+      xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkFTVVM8L3RpdGxlPjxwYXRoIGQ9Ik0yMy45MDQgMTAuNzg4VjkuNTIyaC00LjY1NmMtLjk3MiAwLTEuNDEuNi0xLjQ4MiAxLjE4MnYuMDE4LTEuMmgtMS4zNjh2MS4yNjZoMS4zNjJ6bS02LjE0NC40NTZsLTEuMzY4LS4wNzh2MS40NThjMCAuNDU2LS4yMjguNTk0LTEuMDIuNTk0SDE0LjI4Yy0uNjU0IDAtLjkzLS4xODYtLjkzLS41OTR2LTEuNTk2bC0xLjM4Ni0uMTAydjEuODEyaC0uMDNjLS4wNzgtLjUyOC0uMjc2LTEuMTQtMS41OTYtMS4yM0w2IDExLjIyYzAgLjY2Ni40NzQgMS4wNjIgMS4yMTggMS4xNGwzLjAyNC4zMDZjLjI0LjAxOC40MTQuMDkuNDE0LjI4OCAwIC4yMTYtLjE4LjI0LS40NTYuMjRINS45NDZWMTEuMjJsLTEuMzg2LS4wOXYzLjM0OGg1LjY0NmMxLjI2IDAgMS42NjItLjY1NCAxLjcyMi0xLjJoLjAzYy4xNTYuODY0LjkxMiAxLjIgMi4xOSAxLjJoMS40MWMxLjQ5NCAwIDIuMjAyLS40NTYgMi4yMDItMS41MjR6bTQuMzk4LjI1OGwtNC4zMzgtLjI1OGMwIC42NjYuNDM4IDEuMTEgMS4xODIgMS4xN2wzLjA5LjI0Yy4yNC4wMTguMzg0LjA3OC4zODQuMjc2IDAgLjE4Ni0uMTY4LjI1OC0uNTE2LjI1OGgtNC4yMTJ2MS4yOWg0LjMwMmMxLjM1NiAwIDEuOTUtLjQ3NCAxLjk1LTEuNTU0IDAtLjk3Mi0uNTM0LTEuMzM4LTEuODQyLTEuNDIyem0tMTAuMTk0LTEuOThoMS4zODZ2MS4yNjZoLTEuMzg2ek0zLjc5OCAxMS4wN2wtMS41MDYtLjE1TDAgMTQuNDc4aDEuNjg2em03LjkxNC0xLjU0OGgtNC4yM2MtLjk4NCAwLTEuNDE2LjYxMi0xLjUxOCAxLjJ2LTEuMkgzLjYxOGMtLjMzIDAtLjQ4Ni4xMDItLjY0Mi4zM2wtLjY0OC45MzZoOS4zODRaIi8+PC9zdmc+" />
+    <text transform="scale(.1)" x="450" y="175" textLength="320" fill="#fff">ASUS</text><text transform="scale(.1)"
+      x="1107.5" y="175" textLength="515" fill="#fff" font-weight="bold">LAPTOP</text>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="195" height="28" role="img"
+  aria-label="AMD: RYZEN 7 4800H">
+  <title>AMD: RYZEN 7 4800H</title>
+  <g shape-rendering="crispEdges">
+    <rect width="66.75" height="28" fill="#555" />
+    <rect x="66.75" width="128.25" height="28" fill="#ed1c24" />
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+    text-rendering="geometricPrecision" font-size="100">
+    <image x="9" y="7" width="14" height="14"
+      xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkFNRDwvdGl0bGU+PHBhdGggZD0iTTE4LjMyNCA5LjEzN2wxLjU1OSAxLjU2aDIuNTU2djIuNTU3TDI0IDE0LjgxNFY5LjEzN3pNMiA5LjUybC0yIDQuOTZoMS4zMDlsLjM3LS45ODJIMy45bC40MDguOTgyaDEuMzM4TDMuNDMyIDkuNTJ6bTQuMjA5IDB2NC45NTVoMS4yMzh2LTMuMDkybDEuMzM4IDEuNTYyaC4xODhsMS4zMzgtMS41NTZ2My4wOTFoMS4yMzhWOS41MkgxMC40N2wtMS41OTIgMS44NDVMNy4yODcgOS41MnptNi4yODMgMHY0Ljk2aDIuMDU3YzEuOTc5IDAgMi44OC0xLjA0NiAyLjg4LTIuNDcyIDAtMS4zNi0uOTM3LTIuNDg4LTIuNzQ3LTIuNDg4em0xLjIzNy45MWguNzkyYzEuMTcgMCAxLjYzLjcxMSAxLjYzIDEuNTcgMCAuNzI4LS4zNzIgMS41NzItMS42MTYgMS41NzJoLS44MDZ6bS0xMC45ODUuMjczbC43OTEgMS45MzJIMi4wMDh6bTE3LjEzNy4zMDdsLTEuNjA0IDEuNjAzdjIuMjVoMi4yNDZsMS42MDQtMS42MDdoLTIuMjQ2eiIvPjwvc3ZnPg==" />
+    <text transform="scale(.1)" x="418.75" y="175" textLength="257.5" fill="#fff">AMD</text><text transform="scale(.1)"
+      x="1308.75" y="175" textLength="1042.5" fill="#fff" font-weight="bold">RYZEN 7 4800H</text>
+  </g>
+</svg>
