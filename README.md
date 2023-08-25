@@ -27,6 +27,13 @@
 <a href="https://app.hackthebox.com/profile/204903"><img src="https://www.hackthebox.com/badge/image/204903" alt="HackTheBox"></a>
 </div>
 
+### - Workspace 🖥️
+<p align="center">
+  <a href="#"><img src="" alt="NVIDIA 3070"></a>
+  <a href="#"><img src="" alt="AMD Ryzen 9 5900HX"></a>
+  <a href="#"><img src="" alt="Asus"></a>
+</p>
+
 <details> 
   <summary><h2>🛠️ My Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
