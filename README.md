@@ -27,7 +27,7 @@
 <a href="https://app.hackthebox.com/profile/204903"><img src="https://www.hackthebox.com/badge/image/204903" alt="HackTheBox"></a>
 </div>
 
-### - Workspace 🖥️
+### Workspace 🖥️
 <p align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/T-Crypt/T-Crypt/main/src/graphics.svg" alt="NVIDIA 3070"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/T-Crypt/T-Crypt/main/src/processor.svg" alt="AMD Ryzen 9 5900HX"></a>
