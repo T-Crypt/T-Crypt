@@ -28,6 +28,10 @@
 
 ## :triangular_flag_on_post: CTF profile:
 
+<div align="left">
+<a href="https://app.hackthebox.com/profile/204903"><img src="https://www.hackthebox.com/badge/image/204903" alt="HackTheBox"></a>
+</div>
+
 ### Workspace 🖥️
 <p align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/T-Crypt/T-Crypt/main/src/graphics.svg" alt="NVIDIA 3070"></a>
