@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
-- 🌱 I’m currently studying for **Offensive Security Certified Professional**
+- 🌱 I’m currently studying for **Certified Pentration Testing Specialist (CPTS)**
 
 - 💬 Ask me about **Linux / HTB / Windows**
 
