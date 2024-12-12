@@ -121,8 +121,8 @@
 
  
  <div align="center">
-<a href="http://www.github.com/T-Crypt/github-readme-stats"><img width="60%" src="https://github-readme-stats-one-tau-43.vercel.app/api/pin/?username=T-Crypt&repo=github-readme-stats&theme=buefy" /></a>
- <a href="https://github.com/T-Crypt/github-readme-stats"><img alt="T-Crypt's Top Languages" src="https://github-readme-stats-seven-henna.vercel.app/api/top-langs/?username=T-Crypt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="http://www.github.com/T-Crypt/github-readme-stats"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=t-crypt&show_icons=true&count_private=true&theme=dark" /></a>
+ <a href="https://github.com/T-Crypt/github-readme-stats"><img alt="T-Crypt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-crypt&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="http://www.github.com/T-Crypt"/><img alt="Github Streak" src="https://streak-stats.demolab.com/?user=T-Crypt&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
 </div>
 
