@@ -33,11 +33,13 @@
 </div>
 
 ### Workspace 🖥️
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/T-Crypt/T-Crypt/main/src/graphics.svg" alt="NVIDIA 4090"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/T-Crypt/T-Crypt/main/src/processor.svg" alt="Intel i9-14900k"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/T-Crypt/T-Crypt/main/src/laptop.svg" alt="Asus"></a>
+<p align='center'>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i9%2014th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-rtx%204090-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+
 
 <details> 
   <summary><h2>🛠️ My Tools</h2></summary>
