@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Linux / HTB / Windows**
 
-- 🤝 I’m looking for help with **Hyprland Hyprdots Theming**
+- 🤝 I’m looking for help with **creating a compositor**
 
 - ⚡ Fun fact **Hack ---> Scream ---> Repeat**
 
