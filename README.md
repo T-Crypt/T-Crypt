@@ -34,7 +34,7 @@
 
 ### Workspace 🖥️
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/T-Crypt/T-Crypt/main/src/graphics.svg" alt="NVIDIA 3070"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/T-Crypt/T-Crypt/main/src/graphics.svg" alt="NVIDIA 4090"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/T-Crypt/T-Crypt/main/src/processor.svg" alt="AMD Ryzen 9 5900HX"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/T-Crypt/T-Crypt/main/src/laptop.svg" alt="Asus"></a>
 </p>
