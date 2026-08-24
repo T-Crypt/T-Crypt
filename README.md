@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Linux / HTB / Windows / Proxmox / MSP Infrastructure**
 
-- 🤝 I'm looking for help with **creating a compositor**
+- 🤝 I'm looking for help with **Building out Aphotic-Hypr**
 
 - ⚡ Fun fact **Hack ---> Scream ---> Repeat**
 
