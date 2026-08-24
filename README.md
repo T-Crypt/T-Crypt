@@ -18,8 +18,8 @@
 
 - ⚡ Fun fact **Hack ---> Scream ---> Repeat**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/trevin-tindall-483883213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trevin-tindall-483883213" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/trevintindall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trevintindall" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/204903" target="blank"><img align="center" src="https://github.com/T-Crypt/hackthebox/blob/main/hack-the-box-svgrepo-com.svg" alt="5H3LLKiller" height="30" width="40" /></a>
