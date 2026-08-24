@@ -25,9 +25,9 @@
 <a href="https://app.hackthebox.com/profile/204903" target="blank"><img align="center" src="https://github.com/T-Crypt/hackthebox/blob/main/hack-the-box-svgrepo-com.svg" alt="5H3LLKiller" height="30" width="40" /></a>
 </p>
 
-## :triangular_flag_on_post: CTF profile:
+<h3 align="center">CTF Profile</h3>
 
-<div align="left">
+<div align="center">
 <a href="https://app.hackthebox.com/profile/204903"><img src="https://www.hackthebox.com/badge/image/204903" alt="HackTheBox"></a>
 </div>
 
@@ -161,7 +161,7 @@
 <a href="http://www.github.com/T-Crypt"/><img alt="Github Streak" src="https://streak-stats.demolab.com/?user=T-Crypt&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%" /></a>
 </div>
 
-<h4 align="left">
+<h4 align="center">
 Fun Fact Of The Day
 </h4>
 
@@ -173,5 +173,5 @@ Fun Fact Of The Day
   <p><a href="https://holopin.io/@tcrypt"><img src="https://holopin.me/tcrypt" alt="@tcrypt&#39;s Holopin board"></a></p>
 </details>
 
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
 <p><a href="https://ko-fi.com/tcrypt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tcrypt" /></a></p><br><br>
