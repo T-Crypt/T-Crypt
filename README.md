@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Custom_Water_Loop-00A3E0?style=for-the-badge&logoColor=white" />
 </p>
 <p align='center'>
-  <em>Single bare-metal Proxmox host running Windows (work/gaming/dev) and Arch Linux ("noctis") VMs side by side</em>
+  <em>Dual bare-metal Proxmox hosts running serviced and Arch Linux ("aphotic") VMs side by side</em>
 </p>
 
 <details> 
