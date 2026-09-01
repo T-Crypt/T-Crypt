@@ -29,7 +29,7 @@
 <a href="https://app.hackthebox.com/profile/204903"><img src="https://www.hackthebox.com/badge/image/204903" alt="HackTheBox"></a>
 </div>
 
-### Rig 🖥️
+<h3 align="center">Setup</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel_Core_i9--14900K-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
