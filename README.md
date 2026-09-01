@@ -10,13 +10,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=29E8F7&width=360&lines=%E2%96%91A%E2%96%91C%E2%96%91C%E2%96%91E%E2%96%91S%E2%96%91S%E2%96%91+%E2%96%91G%E2%96%91A%E2%96%91I%E2%96%91N%E2%96%91E%E2%96%91D%E2%96%91">
   
 
-- 🌱 I am studying for **Certified Penetration Testing Specialist (CPTS)**
-
 - 💬 Ask me about **Linux / HTB / Windows / Proxmox / MSP Infrastructure**
 
 - 🤝 I'm looking for help with **Building out Aphotic-Hypr**
 
-- ⚡ Fun fact **Hack ---> Scream ---> Repeat**
+- ⚡ **Hack ---> Scream ---> Repeat**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
